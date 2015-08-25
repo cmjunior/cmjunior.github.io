@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[CMJr DEV Reports]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-08-24T22:57:07-03:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Celso Marigo Junior]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Quick Start Blogging!]]></title>
+    <link href="http://yoursite.com/blog/2015/08/24/quick-start-blogging/"/>
+    <updated>2015-08-24T22:52:07-03:00</updated>
+    <id>http://yoursite.com/blog/2015/08/24/quick-start-blogging</id>
+    <content type="html"><![CDATA[<p>This is the first post on my personal report blog. I´m intend to post here all the reports to record my resource.
+First things first, let me talk about my self. I´m an Enginering Study, brasilian, 30 years old, and this is my first blog post. I´m always wanted to do a blog, now is the time.</p>
+]]></content>
+  </entry>
+  
+</feed>
